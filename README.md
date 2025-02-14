@@ -42,7 +42,7 @@ e. Menginputkan nama menggunakan perulangan bersarang, pada baris :
         }
 
     - Penjelasan Iterasi ketiga : Menampilkan nama-nama atlet dari politeknik yang suda di
-      inputkan oleh user.
+    inputkan oleh user.
   g. scanner.close();
         }
     }
